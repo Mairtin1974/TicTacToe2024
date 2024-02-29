@@ -13,6 +13,7 @@ int main()
     for (int i=0; i<9;i++)
     {
     printf("Please enter the location of your %d X!!", i);
+    scanf("%d %d",&X,&Y);
 
     }
 
